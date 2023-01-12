@@ -22,8 +22,8 @@ package lint
 
 import (
 	"github.com/emicklei/proto"
-	"github.com/uber/prototool/internal/strs"
-	"github.com/uber/prototool/internal/text"
+	"github.com/b1ackhuang/prototool/internal/strs"
+	"github.com/b1ackhuang/prototool/internal/text"
 )
 
 var enumNamesCapitalizedLinter = NewLinter(

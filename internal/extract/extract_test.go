@@ -24,8 +24,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"github.com/uber/prototool/internal/reflect"
-	ptesting "github.com/uber/prototool/internal/testing"
+	"github.com/b1ackhuang/prototool/internal/reflect"
+	ptesting "github.com/b1ackhuang/prototool/internal/testing"
 )
 
 func TestOne(t *testing.T) {

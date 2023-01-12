@@ -24,8 +24,8 @@ import (
 	"text/scanner"
 
 	"github.com/emicklei/proto"
-	"github.com/uber/prototool/internal/file"
-	"github.com/uber/prototool/internal/text"
+	"github.com/b1ackhuang/prototool/internal/file"
+	"github.com/b1ackhuang/prototool/internal/text"
 )
 
 var _ proto.Visitor = baseVisitor{}

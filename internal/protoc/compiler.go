@@ -38,10 +38,10 @@ import (
 
 	"github.com/golang/protobuf/proto"
 	"github.com/golang/protobuf/protoc-gen-go/descriptor"
-	"github.com/uber/prototool/internal/file"
-	"github.com/uber/prototool/internal/settings"
-	"github.com/uber/prototool/internal/text"
-	"github.com/uber/prototool/internal/wkt"
+	"github.com/b1ackhuang/prototool/internal/file"
+	"github.com/b1ackhuang/prototool/internal/settings"
+	"github.com/b1ackhuang/prototool/internal/text"
+	"github.com/b1ackhuang/prototool/internal/wkt"
 	"go.uber.org/zap"
 )
 

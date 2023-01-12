@@ -29,7 +29,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/uber/prototool/internal/file"
+	"github.com/b1ackhuang/prototool/internal/file"
 	"go.uber.org/zap"
 )
 

@@ -29,9 +29,9 @@ import (
 	"unicode"
 
 	"github.com/emicklei/proto"
-	"github.com/uber/prototool/internal/file"
-	"github.com/uber/prototool/internal/settings"
-	"github.com/uber/prototool/internal/text"
+	"github.com/b1ackhuang/prototool/internal/file"
+	"github.com/b1ackhuang/prototool/internal/settings"
+	"github.com/b1ackhuang/prototool/internal/text"
 	"go.uber.org/zap"
 )
 
