@@ -1,4 +1,4 @@
-module github.com/uber/prototool
+module github.com/b1ackhuang/prototool
 
 go 1.14
 
